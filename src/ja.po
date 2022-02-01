@@ -1,18 +1,24 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
-"「{}」は {}() の引数ではありません\\n"
-"（値が等しいことを確かめたいのであれば、「=」ではなく「==」としてください））"
+"「{}」は {}() の引数ではありません\\n（値が等しいことを確かめたいのであれば、"
+"「=」ではなく「==」としてください））"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
@@ -49,9 +55,10 @@ msgstr "アクセント"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
-"Access is denied. You may not have the appropriate permissions to access "
-"this resource."
-msgstr "アクセスが拒否されました。適切なアクセス権限を持っていない可能性があります。"
+"Access is denied. You may not have the appropriate permissions to access this "
+"resource."
+msgstr ""
+"アクセスが拒否されました。適切なアクセス権限を持っていない可能性があります。"
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -59,8 +66,7 @@ msgstr "アクセスが拒否されました。適切なアクセス権限を持
 msgid "active"
 msgstr "オン"
 
-#: jamovi/client/main/ribbon/datatab.js:33
-#: jamovi/client/main/ribbon/datatab.js:58
+#: jamovi/client/main/ribbon/datatab.js:33 jamovi/client/main/ribbon/datatab.js:58
 #: jamovi/client/main/ribbon/variablestab.js:27
 msgid "Add"
 msgstr "追加"
@@ -80,7 +86,7 @@ msgstr "フィルタを追加"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 msgid "Add new level"
-msgstr "レベルを追加"
+msgstr "水準を追加"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -140,10 +146,8 @@ msgstr "かつ"
 #: jamovi/client/main/contextmenu/contextmenus.js:60
 #: jamovi/client/main/contextmenu/contextmenus.js:64
 #: jamovi/client/main/contextmenu/contextmenus.js:68
-#: jamovi/client/main/ribbon/datatab.js:36
-#: jamovi/client/main/ribbon/datatab.js:40
-#: jamovi/client/main/ribbon/datatab.js:44
-#: jamovi/client/main/ribbon/datatab.js:60
+#: jamovi/client/main/ribbon/datatab.js:36 jamovi/client/main/ribbon/datatab.js:40
+#: jamovi/client/main/ribbon/datatab.js:44 jamovi/client/main/ribbon/datatab.js:60
 #: jamovi/client/main/ribbon/variablestab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
@@ -355,23 +359,20 @@ msgstr "文字（数字）を数値に変換します。"
 msgid "Converts the value to text."
 msgstr "数値を文字（数字）に変換します。"
 
-#: jamovi/client/main/resultspanel.js:681
-#: jamovi/client/main/resultspanel.js:783
+#: jamovi/client/main/resultspanel.js:681 jamovi/client/main/resultspanel.js:783
 msgid "Copied"
 msgstr "コピーしました"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:131
 #: jamovi/client/main/contextmenu/contextmenus.js:14
 #: jamovi/client/main/contextmenu/contextmenus.js:36
-#: jamovi/client/main/contextmenu/contextmenus.js:89
-#: jamovi/client/main/menu.js:153 jamovi/client/main/resultspanel.js:427
-#: jamovi/client/main/resultspanel.js:591
+#: jamovi/client/main/contextmenu/contextmenus.js:89 jamovi/client/main/menu.js:153
+#: jamovi/client/main/resultspanel.js:427 jamovi/client/main/resultspanel.js:591
 #: jamovi/client/main/ribbon/annotationtab.js:110
 #: jamovi/client/main/ribbon/datatab.js:19
 #: jamovi/client/main/utils/clipboardprompt.js:19
 #: jamovi/client/main/utils/clipboardprompt.js:21
-#: jamovi/client/resultsview/element.js:134
-#: jamovi/client/resultsview/group.js:213
+#: jamovi/client/resultsview/element.js:134 jamovi/client/resultsview/group.js:213
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
 msgstr "コピー"
@@ -455,8 +456,7 @@ msgstr[1] "{n}個のデータ変数"
 msgid "Decimal"
 msgstr "小数"
 
-#: jamovi/client/main/ribbon/appmenu.js:62
-#: jamovi/client/main/ribbon/appmenu.js:69
+#: jamovi/client/main/ribbon/appmenu.js:62 jamovi/client/main/ribbon/appmenu.js:69
 msgid "decimal places"
 msgstr "小数位"
 
@@ -468,8 +468,7 @@ msgstr "初期値"
 msgid "Default missings"
 msgstr "欠損値の初期値"
 
-#: jamovi/client/main/ribbon/datatab.js:51
-#: jamovi/client/main/ribbon/datatab.js:62
+#: jamovi/client/main/ribbon/datatab.js:51 jamovi/client/main/ribbon/datatab.js:62
 #: jamovi/client/main/ribbon/variablestab.js:41
 msgid "Delete"
 msgstr "削除"
@@ -517,27 +516,25 @@ msgstr "削除"
 msgid "Description"
 msgstr "説明"
 
-#: jamovi/client/main/utils/pathtools.js:11
-#: jamovi/server/jamovi/server/instance.py
+#: jamovi/client/main/utils/pathtools.js:11 jamovi/server/jamovi/server/instance.py
 msgid "Desktop"
 msgstr "デスクトップ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid ""
-"Determines if any of the items appear in in1, in2, in3, .... Note that most "
-"of these arguments are optional -- it is possible to simply use "
+"Determines if any of the items appear in in1, in2, in3, .... Note that most of "
+"these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
-"「対象（in1, in2, …）」の中に「項目（item1, item2, "
-"…）」があるかどうか（真・偽）を判定します。引数のほとんどはオプションなので、<strong>CONTAINS(針, "
-"干し草)</strong>のようにシンプルに記述できます。"
+"「対象（in1, in2, …）」の中に「項目（item1, item2, …）」があるかどうか（真・偽）"
+"を判定します。引数のほとんどはオプションなので、<strong>CONTAINS(針, 干し草)</"
+"strong>のようにシンプルに記述できます。"
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
 msgstr "開発者モード"
 
-#: jamovi/client/main/utils/pathtools.js:7
-#: jamovi/server/jamovi/server/instance.py
+#: jamovi/client/main/utils/pathtools.js:7 jamovi/server/jamovi/server/instance.py
 msgid "Documents"
 msgstr "書類"
 
@@ -554,18 +551,17 @@ msgstr "保存しない"
 msgid "Download"
 msgstr "ダウンロード"
 
-#: jamovi/client/main/utils/pathtools.js:9
-#: jamovi/server/jamovi/server/instance.py
+#: jamovi/client/main/utils/pathtools.js:9 jamovi/server/jamovi/server/instance.py
 msgid "Downloads"
 msgstr "ダウンロード"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid ""
-"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
-"20), i.e. SAMPLE('training', 20, 'test')"
+"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), "
+"i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"変数の中から標本サイズ（n）で指定された個数の値を無作為抽出します（例：SAMPLE(var, 20), SAMPLE(‘training’, 20, "
-"‘test’)）。"
+"変数の中から標本サイズ（n）で指定された個数の値を無作為抽出します（例："
+"SAMPLE(var, 20), SAMPLE(‘training’, 20, ‘test’)）。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -591,8 +587,7 @@ msgstr "複製"
 msgid "Duplicate transform"
 msgstr "変換を複製"
 
-#: jamovi/client/main/main.js:175
-#: jamovi/client/main/ribbon/annotationtab.js:114
+#: jamovi/client/main/main.js:175 jamovi/client/main/ribbon/annotationtab.js:114
 #: jamovi/client/main/ribbon/annotationtab.js:13
 #: jamovi/client/main/ribbon/datatab.js:23
 #: jamovi/client/main/ribbon/variablestab.js:17
@@ -662,8 +657,7 @@ msgstr "Excel形式 {ext}"
 
 #: jamovi/client/main/backstage.js:1231 jamovi/client/main/backstage.js:1323
 #: jamovi/client/main/backstage.js:321 jamovi/client/main/resultspanel.js:592
-#: jamovi/client/resultsview/element.js:134
-#: jamovi/client/resultsview/group.js:215
+#: jamovi/client/resultsview/element.js:134 jamovi/client/resultsview/group.js:215
 msgid "Export"
 msgstr "書き出し"
 
@@ -743,8 +737,8 @@ msgstr "フィルタ適用"
 #: jamovi/client/main/contextmenu/contextmenus.js:19
 #: jamovi/client/main/contextmenu/contextmenus.js:40
 #: jamovi/client/main/ribbon/datatab.js:56
-#: jamovi/client/main/ribbon/variablestab.js:46
-#: jamovi/client/main/tableview.js:83 jamovi/client/main/variablesview.js:61
+#: jamovi/client/main/ribbon/variablestab.js:46 jamovi/client/main/tableview.js:83
+#: jamovi/client/main/variablesview.js:61
 msgid "Filters"
 msgstr "フィルタ"
 
@@ -775,9 +769,11 @@ msgstr "式に不正なノードが含まれています"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two "
-"equals signs '==')"
-msgstr "式の指定に誤りがあります（値が等しいことを確かめたいのであれば、「=」でなく「==」としてください）"
+"Formula is mis-specified (If you're wanting to test equality, use two equals "
+"signs '==')"
+msgstr ""
+"式の指定に誤りがあります（値が等しいことを確かめたいのであれば、「=」でなく「==」"
+"としてください）"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -820,8 +816,7 @@ msgstr "グレー"
 msgid "Group"
 msgstr "グループ"
 
-#: jamovi/client/main/ribbon/appmenu.js:92
-#: jamovi/client/main/ribbon/appmenu.js:99
+#: jamovi/client/main/ribbon/appmenu.js:92 jamovi/client/main/ribbon/appmenu.js:99
 msgid "Hadley"
 msgstr "ggplot風"
 
@@ -842,8 +837,7 @@ msgid "Hidden"
 msgstr "非表示"
 
 #: jamovi/client/main/store/pagemodules.js:139
-#: jamovi/client/main/variableeditor.js:175
-#: jamovi/client/main/variableeditor.js:49
+#: jamovi/client/main/variableeditor.js:175 jamovi/client/main/variableeditor.js:49
 msgid "Hide"
 msgstr "隠す"
 
@@ -859,8 +853,7 @@ msgstr "設定を隠す"
 msgid "Highlight Color"
 msgstr "強調色"
 
-#: jamovi/client/main/utils/pathtools.js:13
-#: jamovi/server/jamovi/server/instance.py
+#: jamovi/client/main/utils/pathtools.js:13 jamovi/server/jamovi/server/instance.py
 msgid "Home"
 msgstr "ホーム"
 
@@ -868,8 +861,7 @@ msgstr "ホーム"
 msgid "Html"
 msgstr "HTML"
 
-#: jamovi/client/main/ribbon/appmenu.js:92
-#: jamovi/client/main/ribbon/appmenu.js:99
+#: jamovi/client/main/ribbon/appmenu.js:92 jamovi/client/main/ribbon/appmenu.js:99
 msgid "I ♥ SPSS"
 msgstr "SPSS風"
 
@@ -889,7 +881,9 @@ msgstr "もし"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "条件式（expression）が「真」の場合は「真の場合（value）」、そうでない場合は「偽の場合（else）」の値を返します。"
+msgstr ""
+"条件式（expression）が「真」の場合は「真の場合（value）」、そうでない場合は「偽の"
+"場合（else）」の値を返します。"
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -932,10 +926,8 @@ msgstr "右へシフト"
 #: jamovi/client/main/contextmenu/contextmenus.js:63
 #: jamovi/client/main/contextmenu/contextmenus.js:67
 #: jamovi/client/main/ribbon/annotationtab.js:151
-#: jamovi/client/main/ribbon/datatab.js:35
-#: jamovi/client/main/ribbon/datatab.js:39
-#: jamovi/client/main/ribbon/datatab.js:43
-#: jamovi/client/main/ribbon/datatab.js:59
+#: jamovi/client/main/ribbon/datatab.js:35 jamovi/client/main/ribbon/datatab.js:39
+#: jamovi/client/main/ribbon/datatab.js:43 jamovi/client/main/ribbon/datatab.js:59
 #: jamovi/client/main/ribbon/variablestab.js:29
 #: jamovi/client/main/ribbon/variablestab.js:33
 #: jamovi/client/main/ribbon/variablestab.js:37
@@ -1280,8 +1272,7 @@ msgid "Paste"
 msgstr "貼り付け"
 
 #: jamovi/client/main/backstage.js:1026 jamovi/client/main/backstage.js:1049
-#: jamovi/client/main/resultspanel.js:715
-#: jamovi/client/main/resultspanel.js:742
+#: jamovi/client/main/resultspanel.js:715 jamovi/client/main/resultspanel.js:742
 msgid "PDF Document {ext}"
 msgstr "PDF書類 {ext}"
 
@@ -1342,8 +1333,7 @@ msgid "Reference"
 msgstr "文献"
 
 #: jamovi/client/main/references.js:20 jamovi/client/main/resultspanel.js:421
-#: jamovi/client/main/resultspanel.js:423
-#: jamovi/client/main/ribbon/appmenu.js:75
+#: jamovi/client/main/resultspanel.js:423 jamovi/client/main/ribbon/appmenu.js:75
 msgid "References"
 msgstr "文献"
 
@@ -1366,8 +1356,7 @@ msgid "Restart and Install"
 msgstr "再起動してインストール"
 
 #: jamovi/client/main/analyses.js:336 jamovi/client/main/ribbon/appmenu.js:58
-#: jamovi/server/jamovi/server/analyses.py
-#: jamovi/server/jamovi/server/instance.py
+#: jamovi/server/jamovi/server/analyses.py jamovi/server/jamovi/server/instance.py
 msgid "Results"
 msgstr "結果"
 
@@ -1386,12 +1375,13 @@ msgstr "変数のボックスコックス変換値を返します。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid ""
-"Returns a whether the variable is an outlier according to the IQR: If the "
-"value is within the box of a Boxplot 0 is returned, absolute values larger "
-"than 1.5 are outside the whiskers."
+"Returns a whether the variable is an outlier according to the IQR: If the value "
+"is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 "
+"are outside the whiskers."
 msgstr ""
-"四分位範囲（IQR）に基づいて変数値が外れ値かどうかを判断します。値が箱ひげ図の箱の中にあるときは0が返されます。絶対値が1.5"
-"を超える場合には、その値がひげの外にあることを意味します。"
+"四分位範囲（IQR）に基づいて変数値が外れ値かどうかを判断します。値が箱ひげ図の箱の"
+"中にあるときは0が返されます。絶対値が1.5を超える場合には、その値がひげの外にある"
+"ことを意味します。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1603,8 +1593,7 @@ msgstr "このデモでは外部モジュールは利用できません。"
 msgid "Sideload"
 msgstr "外部モジュール"
 
-#: jamovi/client/main/ribbon/appmenu.js:62
-#: jamovi/client/main/ribbon/appmenu.js:69
+#: jamovi/client/main/ribbon/appmenu.js:62 jamovi/client/main/ribbon/appmenu.js:69
 msgid "significant figures"
 msgstr "有効桁数"
 
@@ -1618,9 +1607,11 @@ msgstr "変換元の変数"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
-"desired piece by index."
-msgstr "変数に含まれる文字列を区切り文字で分割します。<i>piece</i>で何番目の要素を取り出すかを指定します。"
+"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
+"piece by index."
+msgstr ""
+"変数に含まれる文字列を区切り文字で分割します。<i>piece</i>で何番目の要素を取り出"
+"すかを指定します。"
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
@@ -1683,16 +1674,17 @@ msgstr "文字"
 msgid "Text Color"
 msgstr "文字色"
 
-#: jamovi/client/main/resultspanel.js:682
-#: jamovi/client/main/resultspanel.js:784
+#: jamovi/client/main/resultspanel.js:682 jamovi/client/main/resultspanel.js:784
 msgid "The content has been copied to the clipboard"
 msgstr "内容をクリップボードにコピーしました"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid ""
-"The content has been prepared, and can be copied with the button below, or "
-"by pressing <em>{k}+C</em> on your keyboard"
-msgstr "コピーの準備が完了しました。下のボタン、またはキーボードの<em>{k}+C</em>でコピーできます"
+"The content has been prepared, and can be copied with the button below, or by "
+"pressing <em>{k}+C</em> on your keyboard"
+msgstr ""
+"コピーの準備が完了しました。下のボタン、またはキーボードの<em>{k}+C</em>でコピー"
+"できます"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
@@ -1734,8 +1726,7 @@ msgstr "選択した変換にエラーがあります。修正してください
 msgid "The value in the provided values at index."
 msgstr "指定された「位置（index）」にある値を返します。"
 
-#: jamovi/client/main/backstage.js:1196
-#: jamovi/client/main/utils/pathtools.js:15
+#: jamovi/client/main/backstage.js:1196 jamovi/client/main/utils/pathtools.js:15
 msgid "This Device"
 msgstr "このデバイス"
 
@@ -1978,9 +1969,10 @@ msgstr "もし"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid ""
-"When the variable contains a missing value, use the value, otherwise the "
-"else."
-msgstr "変数に欠損値が含まれている場合は「真の場合（value）」、そうでない場合は「偽の場合（else）」の値を返します。"
+"When the variable contains a missing value, use the value, otherwise the else."
+msgstr ""
+"変数に欠損値が含まれている場合は「真の場合（value）」、そうでない場合は「偽の場合"
+"（else）」の値を返します。"
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2000,8 +1992,7 @@ msgstr "フィルタの適用中は、フィルタに影響する列は編集で
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
-"You cannot modify transforms that affect filters when filtered rows are "
-"hidden"
+"You cannot modify transforms that affect filters when filtered rows are hidden"
 msgstr "フィルタの適用中は、フィルタに影響する変換は編集できません"
 
 #: jamovi/client/main/main.js:135
@@ -2014,54 +2005,52 @@ msgstr "ズーム"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr ""
+msgstr "‘{}’にエラーがあります"
 
-#: jamovi/client/main/ribbon/appmenu.js:62
-#: jamovi/client/main/ribbon/appmenu.js:69
+#: jamovi/client/main/ribbon/appmenu.js:62 jamovi/client/main/ribbon/appmenu.js:69
 msgid "{n} dp"
-msgstr ""
+msgstr "第{n}位"
 
-#: jamovi/client/main/ribbon/appmenu.js:62
-#: jamovi/client/main/ribbon/appmenu.js:69
+#: jamovi/client/main/ribbon/appmenu.js:62 jamovi/client/main/ribbon/appmenu.js:69
 msgid "{n} sf"
-msgstr ""
+msgstr "{n}桁"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr ""
+msgstr "閉じる"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
-msgstr ""
+msgstr "フィルタ列を非表示"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
-msgstr ""
+msgstr "オプションを非表示"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:19
 msgid "Pin level"
-msgstr ""
+msgstr "水準をピン留め"
 
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
-msgstr ""
+msgstr "更新"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 msgid "Show in main menu"
-msgstr ""
+msgstr "メインメニューに表示"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "このデータセットは使用できません"
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "言語を変更するにはjamoviの再起動が必要です"
 
 #: jamovi/client/main/ribbon/appmenu.js:154
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 #: jamovi/client/main/ribbon/appmenu.js:254
 msgid "Restart required"
-msgstr ""
+msgstr "要再起動"
